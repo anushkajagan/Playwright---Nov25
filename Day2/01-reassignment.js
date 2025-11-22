@@ -1,4 +1,4 @@
-//author anushka
+//author anushkag
 var a = "abc" //declaration
 var a = "bcd" // redeclaration
 console.log(a);
