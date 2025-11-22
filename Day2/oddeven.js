@@ -5,7 +5,7 @@ function isOddOrEven(getValue)
 
   const number = getValue
 
-  if (number % 2 == 0)
+  if (number % 2 === 0)
     {
       console.log("The input number "+number+" is even");
     } else {
