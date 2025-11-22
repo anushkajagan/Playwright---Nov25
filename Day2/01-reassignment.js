@@ -1,3 +1,4 @@
+//author anushka
 var a = "abc" //declaration
 var a = "bcd" // redeclaration
 console.log(a);
